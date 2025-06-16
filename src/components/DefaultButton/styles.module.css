@@ -23,11 +23,11 @@
 }
 
 .green {
-    background: var(--success);
+    background: var(--primary);
     color: var(--text-over-primary);
 }
 
 .red {
-    background: var(--primary);
+    background: var(--primary-light);
     color: var(--text-over-primary);
 }
